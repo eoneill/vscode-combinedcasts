@@ -1,0 +1,23 @@
+{
+  "name": "combinedcasts",
+  "displayName": "CombinedCasts",
+  "description": "A theme in the spirit of the CombinedCasts TextMate theme",
+  "version": "0.0.2",
+  "publisher": "eugeneoneill",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CombinedCasts",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CombinedCasts-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
