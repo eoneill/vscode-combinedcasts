@@ -347,6 +347,50 @@
 			"settings": {
 				"foreground": "#7eadc9"
 			}
+		},
+
+		// DIFF
+		{
+			"name": "DIFF: headers",
+			"scope": "meta.diff.header",
+			"settings": {
+				"foreground": "#3690c5"
+			}
+		},
+		{
+			"name": "DIFF: to/from file",
+			"scope": "meta.diff.header.from-file, meta.diff.header.to-file",
+			"settings": {
+				"foreground": "#5e9fc6"
+			}
+		},
+		{
+			"name": "DIFF: range, index, separator",
+			"scope": "meta.diff.range, meta.diff.index, meta.separator",
+			"settings": {
+				"foreground": "#7eadc9"
+			}
+		},
+		{
+			"name": "DIFF: range style",
+			"scope": "meta.diff.range",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "DIFF: insertion",
+			"scope": "markup.inserted.diff",
+			"settings": {
+				"foreground": "#abbc6a"
+			}
+		},
+		{
+			"name": "DIFF: deletion",
+			"scope": "markup.deleted.diff",
+			"settings": {
+				"foreground": "#de7868"
+			}
 		}
 	],
 	"colors": {

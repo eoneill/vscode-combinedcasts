@@ -2,7 +2,7 @@
     "name": "combinedcasts",
     "displayName": "CombinedCasts",
     "description": "A theme in the spirit of the CombinedCasts TextMate theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "eugeneoneill",
     "engines": {
         "vscode": "^1.12.0"
