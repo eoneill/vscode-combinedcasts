@@ -347,7 +347,7 @@
 			"settings": {
 				"foreground": "#7eadc9"
 			}
-		},
+		}
 	],
 	"colors": {
 		"editor.background": "#232323",
